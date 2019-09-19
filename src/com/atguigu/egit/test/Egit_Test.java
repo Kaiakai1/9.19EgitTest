@@ -18,6 +18,10 @@ public class Egit_Test {
 				"纷飞的滥情男女 情仇爱恨别离\r\n" + 
 				"\r\n" + 
 				"一代人终将老去 但总有人正年轻");
+		int a = 10;
+		int b = 2;
+		int c = a / b;
+		System.out.println("c = " + c);
 	}
 
 }
